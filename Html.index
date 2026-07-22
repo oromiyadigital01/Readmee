@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="om">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Oromiyaa Digital</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#06162f;
+    color:white;
+}
+
+header{
+    background:#0b2a5b;
+    padding:20px;
+    text-align:center;
+}
+
+.logo{
+    color:gold;
+    font-size:28px;
+    font-weight:bold;
+}
+
+nav{
+    margin-top:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:8px;
+    display:inline-block;
+}
+
+.hero{
+    padding:60px 20px;
+    text-align:center;
+    background:linear-gradient(#0b2a5b,#06162f);
+}
+
+.hero h1{
+    color:gold;
+    font-size:38px;
+}
+
+.hero p{
+    margin:20px auto;
+    max-width:700px;
+    font-size:18px;
+    line-height:1.6;
+}
+
+button{
+    background:gold;
+    color:#06162f;
+    border:none;
+    padding:12px 25px;
+    border-radius:25px;
+    font-weight:bold;
+}
+
+.section{
+    padding:40px 20px;
+    text-align:center;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:#0b2a5b;
+    padding:20px;
+    border-radius:15px;
+}
+
+.card h3{
+    color:gold;
+    margin-bottom:10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+🌐 Oromiyaa Digital
+</div>
+
+<nav>
+<a href="#">Mana</a>
+<a href="#">Hojii</a>
+<a href="#">Barnoota</a>
+<a href="#">Gabaa</a>
+<a href="#">AI</a>
+<a href="#">Oduu</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h1>
+Baga gara Oromiyaa Digital dhuftan
+</h1>
+
+<p>
+Teknooloojii, Carraa fi Guddina Hundaaf.
+Platformii dijitaalaa hojii, barnoota,
+gabaa fi AI bakka tokkotti walitti fidu.
+</p>
+
+<button>
+Jalqabi
+</button>
+
+</section>
+
+
+<section class="section">
+
+<h2>Tajaajiloota Keenya</h2>
+
+<div class="cards">
+
+
+<div class="card">
+<h3>💼 Hojii</h3>
+<p>
+Carraa hojii fi hojii online.
+</p>
+</div>
+
+
+<div class="card">
+<h3>📚 Barnoota</h3>
+<p>
+Forex, Crypto, Programming,
+AI, Digital Marketing fi Business.
+</p>
+</div>
+
+
+<div class="card">
+<h3>🤖 Oromiyaa AI</h3>
+<p>
+Gargaaraa AI Afaan Oromoo
+gara fuulduraatti ijaaramu.
+</p>
+</div>
+
+
+<div class="card">
+<h3>🛒 Gabaa</h3>
+<p>
+Electronics, brand, gatii fi daldala online.
+</p>
+</div>
+
+
+</div>
+
+</section>
