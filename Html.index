@@ -320,3 +320,112 @@ Ergi
 </div>
 
 </section>
+<!-- LOGIN AND REGISTER -->
+
+<section class="section">
+
+<h2>👤 Oromiyaa Digital Account</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>🔐 Seeni</h3>
+
+<p>
+Yoo account qabaatte gara platformii kee seeni.
+</p>
+
+<button>
+Seeni
+</button>
+
+</div>
+
+
+<div class="card">
+
+<h3>📝 Galmaa'i</h3>
+
+<p>
+Account haaraa uumii tajaajila keenya fayyadami.
+</p>
+
+<button>
+Galmaa'i
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- FUTURE FEATURES -->
+
+<section class="section">
+
+<h2>🚀 Gara Fuulduraa</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>📱 Mobile App</h3>
+<p>
+Android App Oromiyaa Digital.
+</p>
+</div>
+
+
+<div class="card">
+<h3>💳 Kaffaltii Dijitaalaa</h3>
+<p>
+Telebirr, CBE Birr fi tajaajila kaffaltii.
+</p>
+</div>
+
+
+<div class="card">
+<h3>💬 Chat</h3>
+<p>
+Namoota waliin wal qunnamtii.
+</p>
+</div>
+
+
+<div class="card">
+<h3>⚙️ Admin Panel</h3>
+<p>
+Bulchiinsa platformii.
+</p>
+</div>
+
+</div>
+
+</section>
+
+
+<footer style="
+background:#020b18;
+padding:25px;
+text-align:center;
+">
+
+<h3 style="color:gold;">
+🌐 Oromiyaa Digital
+</h3>
+
+<p>
+Teknooloojii, Carraa fi Guddina Hundaaf.
+</p>
+
+<p>
+© 2026 Oromiyaa Digital. Mirgi hundi eegamaadha.
+</p>
+
+</footer>
+
+
+</body>
+</html>
