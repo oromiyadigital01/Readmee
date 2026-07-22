@@ -177,3 +177,146 @@ Electronics, brand, gatii fi daldala online.
 </div>
 
 </section>
+<!-- BARNOOTA DIGITAL -->
+<section class="section">
+
+<h2>📚 Barnoota Oromiyaa Digital</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>📈 Forex Trading</h3>
+<p>
+Forex bu'uuraa, chart dubbisuu,
+risk management fi trading psychology.
+</p>
+</div>
+
+
+<div class="card">
+<h3>₿ Crypto Education</h3>
+<p>
+Blockchain, cryptocurrency fi
+teknooloojii maallaqa dijitaalaa.
+</p>
+</div>
+
+
+<div class="card">
+<h3>💻 Programming</h3>
+<p>
+Website, App fi software development
+barachuuf.
+</p>
+</div>
+
+
+<div class="card">
+<h3>🤖 AI Course</h3>
+<p>
+Artificial Intelligence fi AI tools
+fayyadamuun.
+</p>
+</div>
+
+
+<div class="card">
+<h3>📢 Digital Marketing</h3>
+<p>
+Marketing online, branding fi
+SEO barachuuf.
+</p>
+</div>
+
+
+<div class="card">
+<h3>💼 Business Course</h3>
+<p>
+Daldala, entrepreneurship fi
+hojii uumuu.
+</p>
+</div>
+
+</div>
+
+</section>
+
+
+<!-- MARKETPLACE -->
+<section class="section">
+
+<h2>🛒 Oromiyaa Digital Marketplace</h2>
+
+<div class="cards">
+
+
+<div class="card">
+<h3>📱 Mobile Phones</h3>
+<p>
+Brand: Samsung, Apple, Xiaomi...
+<br>
+Gatii fi odeeffannoo meeshaa.
+</p>
+</div>
+
+
+<div class="card">
+<h3>💻 Laptop & Computer</h3>
+<p>
+Laptop, computer fi accessories.
+</p>
+</div>
+
+
+<div class="card">
+<h3>🎧 Electronics</h3>
+<p>
+Headphone, Speaker, Camera,
+Smart Watch fi kkf.
+</p>
+</div>
+
+
+<div class="card">
+<h3>🏷️ Product Search</h3>
+<p>
+Brand, gatii fi bakka irraa barbaadi.
+</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+<!-- AI SECTION -->
+
+<section class="section">
+
+<h2>🤖 Oromiyaa AI</h2>
+
+<div class="card">
+
+<h3>AI Afaan Oromoo</h3>
+
+<p>
+Gaaffii gaafadhu, baradhu,
+fi hojii kee saffisiisi.
+</p>
+
+<br>
+
+<input 
+type="text" 
+placeholder="Gaaffii kee barreessi..."
+style="padding:12px;width:80%;border-radius:10px;"
+>
+
+<button>
+Ergi
+</button>
+
+</div>
+
+</section>
